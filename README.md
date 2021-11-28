@@ -9,4 +9,4 @@ Window.alert('This is a alert Box');
 
 ![download](https://user-images.githubusercontent.com/95132271/143727784-82c39aaf-3ab9-4c58-b705-487e4c440dbd.png)
 
-![App Screenshot](https://imgur.com/BSO6Wdx)
+![App Screenshot](https://imgur.com/a/Y5mZ91u)
